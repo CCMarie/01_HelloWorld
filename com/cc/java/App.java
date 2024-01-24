@@ -12,12 +12,13 @@ public class App {
       System.out.println(cat);
       //cat.sayHello();
       cat.tellYourAdress();
+      cat.tellYourName();
 
-      System.out.println("-----------------");
+      //System.out.println("-----------------");
 
-      Cat cat2 = new Cat();
-      System.out.println(cat2);
-      cat2.tellYourAdress();
+      //Cat cat2 = new Cat();
+      //System.out.println(cat2);
+      //cat2.tellYourAdress();
 
 
 
@@ -25,14 +26,6 @@ public class App {
 
       
 
-
-
-
-
-
-   
-
-  
 
 
 
