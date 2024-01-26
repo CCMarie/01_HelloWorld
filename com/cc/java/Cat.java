@@ -2,9 +2,9 @@ package com.cc.java;
 
 public class Cat {
 
-    String name;
-    String furColor;
-    int age;
+    private String name;
+    private String furColor;
+    private int age;
 
     public Cat(String name, String furColor, int age) {
         this.name = name;

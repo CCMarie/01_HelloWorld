@@ -12,9 +12,13 @@ public class App {
         output(cat.tellYourFurColor());
         output(String.valueOf(cat.tellYourAge()));  // int --> String
 
+        //output(cat.name);
+
         output("---------------");
 
         Cat cat2 = new Cat("Grizabella", "white", 29);
+
+        //cat2.furColor = "grey";
 
         // Ausgabe
         output(cat2.tellYourName());
